@@ -1,0 +1,20 @@
+title: "문제 풀이 기록"
+description: "Algorithm probs 풀이 아카이브"
+url: "https://fullmoon2009.github.io"
+theme: minima  
+
+# 글/레이아웃
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+plugins:        
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+minima:
+  skin: auto
+  social_links:
+    github: 사용자명
