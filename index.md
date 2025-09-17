@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 홈
+title: algorithm proble-solving archive
 ---
 
-최근 글이 자동으로 아래에 정렬됩니다.
+1일 1커밋 이상 목표
