@@ -43,6 +43,3 @@ while len(d) > 0:
     
 if cnt == 0:
     print("\n".join(res))
-    
-
-    
